@@ -174,3 +174,8 @@ Social MCP modules integrate with social platforms and protocols to enable ident
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server.
 - [kukapay/twitter-username-changes-mcp](https://github.com/kukapay/twitter-username-changes-mcp) - An MCP server that tracks the historical changes of Twitter usernames.
 
+
+### Zcash / Privacy
+
+* [Zcash MCP](https://github.com/Frontier-Compute/zcash-mcp) - 22 tools for Zcash: shielded send, memo decode, attestation proofs, proof verification. First privacy-chain MCP server. npm: @frontiercompute/zcash-mcp
+* [OpenClaw ZAP1](https://github.com/Frontier-Compute/openclaw-zap1) - Zcash attestation plugin for AI agents. 8 hooks fire automatically on agent lifecycle events. Every action anchored to Zcash mainnet.
